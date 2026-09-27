@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="X£no-369" width="380"/>
-
 <img src="./assets/handle.svg" alt="X£no-369 ASCII" width="560"/>
 
 [![status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF003C&center=true&vCenter=true&width=640&height=42&lines=ACCESS+GRANTED+%C2%B7+OPERATOR+X%C2%A3no-369;Ethical+hacking+%C2%B7+Cybersecurity+%C2%B7+Cryptography;Student+by+day+%C2%B7+Seeker+of+wisdom+by+night)](https://git.io/typing-svg)
