@@ -1,27 +1,17 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██╗  ██╗███████╗███╗   ██╗ ██████╗         ██████╗  ██████╗    ║
-║   ╚██╗██╔╝██╔════╝████╗  ██║██╔═══██╗        ╚════██╗██╔════╝    ║
-║    ╚███╔╝ █████╗  ██╔██╗ ██║██║   ██║         █████╔╝███████╗    ║
-║    ██╔██╗ ██╔══╝  ██║╚██╗██║██║   ██║         ╚═══██╗██╔═══██╗   ║
-║   ██╔╝ ██╗███████╗██║ ╚████║╚██████╔╝        ██████╔╝╚██████╔╝   ║
-║   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝         ╚═════╝  ╚═════╝    ║
-║                                                                  ║
-║              ▓▓▓  CLASSIFIED  ·  ETHICAL  OPS  ▓▓▓               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="./assets/banner.jpg" alt="X£no-369 bunker banner" width="820"/>
 
-[![status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=680&height=45&lines=ACCESS+GRANTED+%C2%B7+OPERATOR+XENO-369;Ethical+hacking+%C2%B7+Cybersecurity+%C2%B7+Cryptography;Student+by+day+%C2%B7+Seeker+of+wisdom+by+night)](https://git.io/typing-svg)
+<img src="./assets/handle.svg" alt="X£no-369" width="640"/>
+
+[![status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&height=50&lines=ACCESS+GRANTED+%C2%B7+OPERATOR+X%C2%A3no-369;Ethical+hacking+%C2%B7+Cybersecurity+%C2%B7+Cryptography;Student+by+day+%C2%B7+Seeker+of+wisdom+by+night)](https://git.io/typing-svg)
 
 `STATUS // ONLINE` &nbsp;·&nbsp; `CLEARANCE // STUDENT` &nbsp;·&nbsp; `PROTOCOL // ETHICAL-ONLY`
 
-[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.gg/3h8K5hyS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/victor-yanfouom-kanfitine-20521935b)
-[![Mastodon](https://img.shields.io/badge/Mastodon-0D1117?style=for-the-badge&logo=mastodon&logoColor=00FF41)](https://mastodon.social/@VictorNEWTON)
-[![Email](https://img.shields.io/badge/Signal_Drop-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:newtonvictor38@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-020617?style=for-the-badge&logo=discord&logoColor=00D4FF)](https://discord.gg/3h8K5hyS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://www.linkedin.com/in/victor-yanfouom-kanfitine-20521935b)
+[![Mastodon](https://img.shields.io/badge/Mastodon-020617?style=for-the-badge&logo=mastodon&logoColor=22D3EE)](https://mastodon.social/@VictorNEWTON)
+[![Email](https://img.shields.io/badge/Signal_Drop-020617?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:newtonvictor38@gmail.com)
 
 </div>
 
@@ -29,7 +19,7 @@
 
 ```
 ┌─ IDENTITY ───────────────────────────────────────────────────────┐
-│  handle     : Xeno-369                                           │
+│  handle     : X£no-369                                           │
 │  role       : Computer Science student                           │
 │  theater    : ethical hacking · cybersecurity · cryptography     │
 │  side quest : physics, systems, and the long hunt for knowledge  │
@@ -57,42 +47,29 @@ I treat security like a craft, not a costume. I live in terminals, read code the
 
 ### `// ARSENAL`
 
-<details>
-<summary><b>Languages & shells</b></summary>
-<br/>
+<div align="center">
 
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF41)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![Pascal](https://img.shields.io/badge/Pascal-0D1117?style=for-the-badge&logo=pascal&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41)
+<p><strong>live stack</strong></p>
 
-</details>
+[![skills](https://skillicons.dev/icons?i=c,py,bash,linux,nginx,apache,cloudflare,arduino,git,github,powershell,windows&theme=dark)](https://skillicons.dev)
 
-<details>
-<summary><b>Systems & infrastructure</b></summary>
-<br/>
+![C](https://img.shields.io/badge/C-020617?style=for-the-badge&logo=c&logoColor=00D4FF)
+![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3B82F6)
+![Pascal](https://img.shields.io/badge/Pascal-020617?style=for-the-badge&logoColor=22D3EE)
+![Bash](https://img.shields.io/badge/Bash-020617?style=for-the-badge&logo=gnubash&logoColor=00D4FF)
+![PowerShell](https://img.shields.io/badge/PowerShell-020617?style=for-the-badge&logo=powershell&logoColor=3B82F6)
+![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=22D3EE)
+![Kali](https://img.shields.io/badge/Kali_Linux-020617?style=for-the-badge&logo=kalilinux&logoColor=00D4FF)
+![Nginx](https://img.shields.io/badge/Nginx-020617?style=for-the-badge&logo=nginx&logoColor=22D3EE)
+![Apache](https://img.shields.io/badge/Apache-020617?style=for-the-badge&logo=apache&logoColor=3B82F6)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-020617?style=for-the-badge&logo=cloudflare&logoColor=00D4FF)
+![Arduino](https://img.shields.io/badge/Arduino-020617?style=for-the-badge&logo=arduino&logoColor=22D3EE)
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=00D4FF)
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=3B82F6)
+![Canva](https://img.shields.io/badge/Canva-020617?style=for-the-badge&logo=canva&logoColor=22D3EE)
+![Lightroom](https://img.shields.io/badge/Lightroom-020617?style=for-the-badge&logo=adobelightroom&logoColor=00D4FF)
 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=00FF41)
-![Apache](https://img.shields.io/badge/Apache-0D1117?style=for-the-badge&logo=apache&logoColor=00FF41)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-0D1117?style=for-the-badge&logo=windowsterminal&logoColor=00FF41)
-
-</details>
-
-<details>
-<summary><b>Versioning & craft</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)
-![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00FF41)
-![Lightroom](https://img.shields.io/badge/Lightroom-0D1117?style=for-the-badge&logo=adobelightroom&logoColor=00FF41)
-
-</details>
+</div>
 
 ---
 
@@ -100,16 +77,12 @@ I treat security like a craft, not a costume. I live in terminals, read code the
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xeno-369&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Xeno-369&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&stroke=21262D" alt="GitHub streak" />
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=Xeno-369&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=00D4FF&cache_seconds=1800)](https://github.com/Xeno-369)
+[![GitHub streak](https://streak-stats.demolab.com/?user=Xeno-369&hide_border=true&background=020617&ring=00D4FF&fire=3B82F6&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&stroke=1E293B&currStreakNum=22D3EE&sideNums=22D3EE)](https://github.com/Xeno-369)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeno-369&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top languages" />
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Xeno-369&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=00D4FF&text_color=C9D1D9&cache_seconds=1800)](https://github.com/Xeno-369)
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Xeno-369&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top contributed repos" />
-
-<br/>
-
-<img src="https://visitcount.itsvg.in/api?id=Xeno-369&label=Intrusions%20logged&color=0&icon=5&pretty=true" alt="Profile views" />
+[![Profile views](https://komarev.com/ghpvc/?username=Xeno-369&label=intrusions%20logged&color=00d4ff&style=for-the-badge)](https://github.com/Xeno-369)
 
 </div>
 
@@ -118,13 +91,13 @@ I treat security like a craft, not a costume. I live in terminals, read code the
 <div align="center">
 
 ```
-[ xeno-369@bunker ~ ]$ whoami
+[ X£no-369@bunker ~ ]$ whoami
 operator · student · ethical hacker in the making
 
-[ xeno-369@bunker ~ ]$ echo $MOTTO
+[ X£no-369@bunker ~ ]$ echo $MOTTO
 "Understand the break. Own the fix. Leave the system stronger."
 
-[ xeno-369@bunker ~ ]$ _
+[ X£no-369@bunker ~ ]$ _
 ```
 
 <sub>No unauthorized access. No gray-area flexing. Just the lab, the logs, and the long game.</sub>
