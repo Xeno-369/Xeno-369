@@ -2,7 +2,22 @@
 
 <img src="./assets/handle.svg" alt="X£no-369 ASCII" width="560"/>
 
-[![status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF003C&center=true&vCenter=true&width=640&height=42&lines=ACCESS+GRANTED+%C2%B7+OPERATOR+X%C2%A3no-369;Ethical+hacking+%C2%B7+Cybersecurity+%C2%B7+Cryptography;Student+by+day+%C2%B7+Seeker+of+wisdom+by+night)](https://git.io/typing-svg)
+```
++=======================================================+
+|                                                       |
+|  __  __    ,-¬                     _____  __   ___    |
+|  \ \/ /   | __|   _ __   ___      |___ / / /_ / _ \   |
+|   \  /   _| |_   | '_ \ / _ \ _____ |_ \| '_ \ (_) |  |
+|   /  \   |___ /  | | | | (_) |_____|__) | (_) \__, |  |
+|  /_/\_\      \|  |_| |_|\___/     |____/ \___/  /_/   |
+|                                                       |
++=======================================================+
+       =[ X£no-369  //  ethical ops console          ]
+  + -- --=[ status: ONLINE  |  protocol: ETHICAL-ONLY ]
+  + -- --=[ labs · CTFs · authorized scopes only      ]
+```
+
+[![status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF003C&center=true&vCenter=true&width=640&height=42&lines=ACCESS+GRANTED+%C2%B7+OPERATOR+X%C2%A3no-369;Ethical+hacking+%C2%B7+Cybersecurity+%C2%B7+Cryptography;Student+by+day+%C2%B7+CTF+player+by+night)](https://git.io/typing-svg)
 
 `STATUS // ONLINE` &nbsp;·&nbsp; `CLEARANCE // STUDENT` &nbsp;·&nbsp; `PROTOCOL // ETHICAL-ONLY`
 
